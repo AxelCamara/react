@@ -1,0 +1,11 @@
+.carrito-bar {
+    display: flex;
+}
+.carrito-bar p {
+    display: flex;
+    align-items: end;
+    font-size: 30px;
+}
+.carrito {
+    width: 130px;
+}
