@@ -13,13 +13,13 @@ return(
         
         <ul className="categorias"> 
             <li>
-                <Link to="/category/iphone">Iphone</Link>
+                <Link to="/category/iphone" className="a">Iphone</Link>
             </li>
             <li>
-                <Link to="/category/samsung">Samsung</Link>
+                <Link to="/category/samsung" className="a">Samsung</Link>
             </li>
             <li>
-                <Link to="/category/perifericos">Perifericos</Link>
+                <Link to="/category/perifericos" className="a">Perifericos</Link>
             </li>
         </ul>
 
